@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SegsyNihal
-- 🚌 My main account - https://github.com/NihalNavath
+<h1 align="center">Hi 👋, I'm SegsyNihal</h1>
+<h3 align="center">A passionate developer</h3>
 
-<!---
-SegsyNihal/SegsyNihal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **Teflon coated cheese paparazzi**
+- 💬 Ask me about **anything! I love to talk :D**
